@@ -1,0 +1,19 @@
+S4KD GitHub upload package
+
+Required repository-root files:
+- index.html
+- app.js
+- styles.css
+- vercel.json
+- README.md
+- .gitignore
+- favicon.ico
+- favicon-32x32.png
+- favicon-192x192.png
+- favicon-512x512.png
+- apple-touch-icon.png
+
+Required directory:
+- assets/ (preserve all nested folders and files)
+
+Do NOT use the previous Netlify files `_redirects` or `netlify.toml` for this Vercel deployment.
